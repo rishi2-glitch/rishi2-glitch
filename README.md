@@ -3,7 +3,7 @@ Learning backend
 
 # Hi 👋, I'm Rishi
 
-###💻 Backend Developer | FastAPI | SQL | Problem Solving
+💻 Backend Developer | FastAPI | SQL | Problem Solving
 
 ---
 
