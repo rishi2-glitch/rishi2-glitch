@@ -1,51 +1,46 @@
+# Hi, I'm Rishi
 
-
-# Hi, I'm rishi2-glitch
-
- Backend Developer | FastAPI | SQL | Problem Solving
+Backend Developer | FastAPI | SQL | Problem Solving
 
 ---
 
-##  About Me
+## About Me
 
--  Computer Science & Engineering Student  
--  Currently learning Backend Development  
--   Practicing Data Structures & Algorithms  
--   building real-world projects  
-
----
-
-##  Skills
-
--  Languages: C, C++, Python  
--  Backend: FastAPI  
--  Database: SQL  
--  Tools: Git, VS Code  
-   
+- Computer Science & Engineering Student  
+- Currently learning Backend Development  
+- Practicing Data Structures & Algorithms  
+- Building real-world projects  
 
 ---
 
-##  Projects
+## Skills
 
-- 🔹   
-- 🔹  
-- 🔹 
-
----
-
-##  Current Focus
-
--  Data Structures & Algorithms  
--  Backend Development (FastAPI)  
--  Building Projects  
+- Languages: C, C++, Python  
+- Backend: FastAPI  
+- Database: SQL  
+- Tools: Git, VS Code  
 
 ---
 
-##  Connect With Me
+## Projects
 
-- GitHub: https://github.com/rishi2-glitch 
+
+
+---
+
+## Current Focus
+
+- Data Structures & Algorithms  
+- Backend Development (FastAPI)  
+- Building Projects  
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/rishi2-glitch  
 - Email: rishiraj0512006@gmail.com  
 
 ---
 
- *“Learning by building and improving every day.”*
+Learning by building and improving every day.
